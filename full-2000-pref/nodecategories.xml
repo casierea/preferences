@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<categories versionMajor="1" versionMinor="0">
+ <category name="Favorites">
+  <node keyword="CAMERA"/>
+  <node keyword="COMPOSITE"/>
+  <node keyword="COLOR_CARD"/>
+  <node keyword="COLOR_OVERRIDE_TVG"/>
+  <node keyword="COLOR_SCALE"/>
+  <node keyword="CUTTER"/>
+  <node keyword="DISPLAY"/>
+  <node keyword="FADE"/>
+  <node keyword="GLOW"/>
+  <node keyword="GAUSSIANBLUR-PLUGIN"/>
+  <node keyword="GRADIENT-PLUGIN"/>
+  <node keyword="PEG"/>
+  <node keyword="SHADOW"/>
+  <node keyword="WRITE"/>
+ </category>
+ <category name="0_FAVS">
+  <node keyword="AutoPatchModule"/>
+  <node keyword="LINE_ART"/>
+  <node keyword="OVERLAY"/>
+  <node keyword="UNDERLAY"/>
+  <node keyword="COLOR_ART"/>
+  <node keyword="LAYER_SELECTOR"/>
+ </category>
+</categories>

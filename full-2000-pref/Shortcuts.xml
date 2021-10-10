@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shortcuts currentFlavour="Toon Boom Harmony" >
+ <flavour id="Adobe Flash" />
+ <flavour id="Toon Boom Studio" />
+ <shortcut id="TOGGLE_PLAYBACK_KEY" >
+  <flavour id="Toon Boom Harmony" key="Space" />
+ </shortcut>
+ <shortcut id="SP_HIDE_ALL_CONTROLS_KEY" >
+  <flavour id="Toon Boom Harmony" key="" />
+ </shortcut>
+ <shortcut id="TL_MARK_CURRENT_FRAME" >
+  <flavour id="Toon Boom Harmony" key="Ins" />
+ </shortcut>
+ <shortcut id="NV_CREATE_BACKDROP" >
+  <flavour id="Toon Boom Harmony" key="Ins" />
+ </shortcut>
+ <shortcut id="TOGGLE_CABLE_CUTTER" >
+  <flavour id="Toon Boom Harmony" key="Shift+C" />
+ </shortcut>
+ <shortcut id="XSHEET_ADD_COL_KEY" >
+  <flavour id="Toon Boom Harmony" key="" />
+ </shortcut>
+ <shortcut id="DELETE_DRAWING_KEY" >
+  <flavour id="Toon Boom Harmony" key="Ctrl+Del" />
+ </shortcut>
+ <shortcut id="DRAWING_PENCIL_TOOL_KEY" >
+  <flavour id="Toon Boom Harmony" key="W" />
+ </shortcut>
+ <shortcut id="DRAWING_PENCIL_EDITOR_TOOL_KEY" >
+  <flavour id="Toon Boom Harmony" key="Alt+W" />
+ </shortcut>
+ <shortcut id="DRAWING_CENTERLINE_EDITOR_TOOL_KEY" >
+  <flavour id="Toon Boom Harmony" key="" />
+ </shortcut>
+ <shortcut id="DRAWING_MERGE_PENCIL_LINES" >
+  <flavour id="Toon Boom Harmony" key="Alt+J" />
+ </shortcut>
+ <shortcut id="Return to Normal Mode" >
+  <flavour id="Toon Boom Harmony" key="" />
+ </shortcut>
+ <shortcut id="DEFORMATION_SHOW_CURRENT_DEFORMER" >
+  <flavour id="Toon Boom Harmony" key="Ctrl+Shift+D" />
+ </shortcut>
+</shortcuts>

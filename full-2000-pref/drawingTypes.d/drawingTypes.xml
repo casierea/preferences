@@ -1,0 +1,8 @@
+<!DOCTYPE DrawingTypes>
+<DrawingTypes>
+ <DrawingType text="RetakeKey" pixmapFile="retakeKeyPixmap.svg" commandIcon="retakeKeyButton.svg" flipIcon="retakeKeyFlip.svg" onionIcon="retakeKeyOnion.svg" timelineColor="#6BB500FF" />
+ <DrawingType text="RetakeBD" pixmapFile="retakeBDPixmap.svg" commandIcon="retakeBDButton.svg" flipIcon="retakeBDFlip.svg" onionIcon="retakeBDOnion.svg" timelineColor="#FFFF00FF"/>
+ <DrawingType text="RetakeIB" pixmapFile="retakeIBPixmap.svg" commandIcon="retakeIBButton.svg" flipIcon="retakeIBFlip.svg" onionIcon="retakeIBOnion.svg" timelineColor="#6F4097FF"/>
+</DrawingTypes>
+
+
